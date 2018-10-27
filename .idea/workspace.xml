@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ae4a025-6700-462a-b1e2-8b28d211c651" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-383118496">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="js" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JavaScript" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="js" value="4615" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JavaScript" value="4615" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson-3/app3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson-3/app2.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/tz44js-blog" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/09/app.js" />
+        <option value="$USER_HOME$/Desktop/jsq.js" />
+        <option value="$PROJECT_DIR$/02/02.js" />
+        <option value="$PROJECT_DIR$/02/index.js" />
+        <option value="$PROJECT_DIR$/02/03-nodejs.js" />
+        <option value="$PROJECT_DIR$/02/04-demo.js" />
+        <option value="$PROJECT_DIR$/02/05-demo.js" />
+        <option value="$PROJECT_DIR$/02/06-demo.js" />
+        <option value="$PROJECT_DIR$/02/模块的导入导出 事件循环.js" />
+        <option value="$PROJECT_DIR$/03-npm/npm包管理工具.js" />
+        <option value="$PROJECT_DIR$/lesson-3/app3.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/lesson-3/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/09/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/kareem/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/memory-pager/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongodb-core/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongodb-core/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongoose-legacy-pluralize/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongoose/examples/aggregate/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongoose/examples/express/connection-sharing/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongoose/examples/geospatial/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongoose/examples/lean/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongoose/examples/mapreduce/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongoose/examples/promises/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongoose/examples/querybuilder/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongoose/examples/replicasets/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mongoose/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mpath/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/mquery/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/saslprep/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/09/node_modules/sparse-bitfield/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/any-promise/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/cache-content-type/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/cookies/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/delegates/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/error-inject/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/http-assert/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/is-generator-function/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/keygrip/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/koa-compose/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/koa-convert/node_modules/koa-compose/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/koa-convert/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/koa-is-json/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/koa-router/node_modules/koa-compose/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/koa-router/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/koa/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/only/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/toidentifier/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/urijs/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/node_modules/ylru/package.json" />
+      <path value="$PROJECT_DIR$/lesson-3/package.json" />
+      <path value="$PROJECT_DIR$/tz44js-blog/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="2T-Nodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2T-Nodejs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2T-Nodejs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2T-Nodejs" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson-3" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.app3.js">
+    <configuration name="04-demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/02-模块的导入导出 事件循环/04-demo.js" working-dir="$PROJECT_DIR$/02-模块的导入导出 事件循环">
+      <method v="2" />
+    </configuration>
+    <configuration name="05-demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/02-模块的导入导出 事件循环/05-demo.js" working-dir="$PROJECT_DIR$/02-模块的导入导出 事件循环">
+      <method v="2" />
+    </configuration>
+    <configuration name="06-demo.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/02-模块的导入导出 事件循环/06-demo.js" working-dir="$PROJECT_DIR$/02-模块的导入导出 事件循环">
+      <method v="2" />
+    </configuration>
+    <configuration name="app2.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app2.js" working-dir="$PROJECT_DIR$/lesson-3">
+      <method v="2" />
+    </configuration>
+    <configuration name="app3.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="app3.js" working-dir="$PROJECT_DIR$/lesson-3">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.04-demo.js" />
+      <item itemvalue="Node.js.05-demo.js" />
+      <item itemvalue="Node.js.06-demo.js" />
+      <item itemvalue="Node.js.app3.js" />
+      <item itemvalue="Node.js.app2.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app3.js" />
+        <item itemvalue="Node.js.app2.js" />
+        <item itemvalue="Node.js.06-demo.js" />
+        <item itemvalue="Node.js.05-demo.js" />
+        <item itemvalue="Node.js.04-demo.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ae4a025-6700-462a-b1e2-8b28d211c651" name="Default Changelist" comment="" />
+      <created>1538031732777</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538031732777</updated>
+      <workItem from="1538031734445" duration="5558000" />
+      <workItem from="1538055015447" duration="1355000" />
+      <workItem from="1538124375948" duration="301000" />
+      <workItem from="1538130865869" duration="12420000" />
+      <workItem from="1538472633119" duration="748000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20382000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16956292" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32953367" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32020727" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32953367" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32953367" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32953367" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/09/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/jsq.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02-模块的导入导出 事件循环/01-index.js" />
+    <entry file="file://$PROJECT_DIR$/02-模块的导入导出 事件循环/02.js" />
+    <entry file="file://$PROJECT_DIR$/02-模块的导入导出 事件循环/05-demo.js" />
+    <entry file="file://$PROJECT_DIR$/02-模块的导入导出 事件循环/03-nodejs.js" />
+    <entry file="file://$PROJECT_DIR$/02-模块的导入导出 事件循环/04-demo.js" />
+    <entry file="file://$PROJECT_DIR$/02-模块的导入导出 事件循环/06-demo.js" />
+    <entry file="file://$PROJECT_DIR$/02/模块的导入导出 事件循环.js" />
+    <entry file="file://$PROJECT_DIR$/03-npm/npm包管理工具.js" />
+    <entry file="file://$PROJECT_DIR$/lesson-3/app2.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson-3/app3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

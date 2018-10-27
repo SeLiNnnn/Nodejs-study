@@ -1,0 +1,110 @@
+//- 注意： 在pug中 不要在某一行后面写注释 会报错 应该在某一行下面另起一行
+doctype html
+html
+    head
+        title 首页
+        meta(charset="utf8")
+    body
+        .bg#bgbox 456
+        - let flag = false
+        div(class = flag ? "selin" : "yuki", id = "box")
+        div(class = swit ? "s" : "y")
+        //- 在pug里没有定义变量如swit的时候 需要在渲染模版引擎也就是render处以参数的形式传入该变量
+
+        //- 分支条件case
+        - let friends = 5
+        case friends
+            when 0
+                p 您没有朋友
+            when 1
+                p 您有一个朋友
+            default 
+                p 您有 #{friends} 个朋友
+
+
+        //- 分支传递
+        - let frs = 0
+        case frs
+            when 0
+            when 1
+            when 2
+                p 您有2个朋友 
+                //- 输出您有2个朋友 当某一条没有输出语句的时候 它会继续往后 一直到有可以输出的分支就跳出
+            default 
+                p 您有 #{friends} 个朋友
+
+        //- 写在一行 块展开
+        - let py = 7
+        case py
+            when 0: p 您没有朋友
+            when 1: p 您有一个朋友
+            default: p 您有 #{py}个朋友
+
+        //- 不输出的代码 在最前面写上 -
+        //- for循环 注意不能带{}}
+        ul
+            - for(let i = 0; i < 3; i++)
+                //- li i
+                //- 标签后面空格跟上变量 默认是字符串而不是输出数字 所以这样的写法只会在每个li输出i字母而不是012
+                //- li #{i} 这种写法可以输出012
+                li= i+1
+                //-这样是标准写法 标签后紧跟着= 后面的内容会被当作变量来处理
+        //- 上面相当于js中的以下写法:给ul添加3个li且li的内容是i的值            
+        //- for(let i = 0; i < 3; i++){
+        //-     li.innerHTML = i
+        //- }
+
+        - let arr = ["4", "5", "6"]
+        ul
+            each item in arr
+                //- li= item
+                li <h1>item</h1>
+                //- 解析标签时 不要使用=开始 直接写就可以了 即使显示地让后面是字符串 也不会被解析!                               
+                //- 输出456
+                //- 使用=开始一段有输出的代码
+                lip= '这段文字<strong>没有</strong>被转义!'
+                //- 输出：这段文字<strong>没有</strong>被转义!
+                lip!= '这段文字<strong>没有</strong>被转义!'
+                //- 输出：这段文字没有被转义! 写!=表示不要转义
+
+        // 这是pug注释1
+        //- 这是pug注释2  // 会渲染到html页面里 可以在控制台查看到
+        // 这是pug注释3
+            这里还是注释3
+            这里也是3
+            //这不是独立的注释
+        //这里才是独立的注释 所以pug里的缩进非常严格
+
+
+        //- if !flg
+        //- unless flg
+        //- 这两种写法是等价的 都是为条件为假时写的语句
+
+        //- 包含include
+        include includes/head.pug
+        //- 直接找到head.pug就导入过来了 类似php里的include
+
+        //- 模板继承
+        //- 该文件为layout.pug
+        block footer
+        block content
+
+        //- 另一个文件
+        extends layout.pug
+        block footer
+        //- 这里写的代码会在layout.pug里被继承
+
+        //- 迭代 混入等 自己在pug文档里学习 定义混入的内容是不会被解析的
+
+        //-标签中的纯文本块
+        script.
+            let a = 1
+            document.onclick = () => {
+                alert(1)
+            }
+        //- 以上就都会视为<script>里的内容 style.也是同样写法
+
+
+
+        
+        

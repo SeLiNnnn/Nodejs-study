@@ -1,0 +1,27 @@
+{   
+    request: { 
+        method: 'GET',
+        url: '/',
+        header: { 
+            host: 'localhost: 3000',
+            connection: 'keep-alive',
+            'cache-control': 'max-age=0',
+            'upgrade-insecure-requests': '1',
+            'user-agent':
+            'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69
+.0.3497.100 Safari/537.36',
+            accept:'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+            'accept-encoding': 'gzip, deflate, br',
+            'accept-language': 'zh-CN,zh;q=0.9',
+            cookie:'Webstorm-95df598f=8d35cb9f-9ce8-4f86-9049-4fb8626addb9; _ga=GA1.1.152419968.1537928977' } },
+    
+    response: { 
+        status: 404, message: 'Not Found', header: {} },
+        app: { subdomainOffset: 2, proxy: false, env: 'development' 
+        },
+
+    originalUrl: '/',
+    req: '<original node req>',
+    res: '<original node res>',
+    socket: '<original node socket>' 
+}

@@ -1,0 +1,17 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "mynpm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "selin",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.5.3"
+  },
+  "devDependencies": {
+    "koa-router": "^7.4.0"
+  }
+}
